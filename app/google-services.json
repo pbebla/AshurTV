@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811593537136",
+    "firebase_url": "https://ashur-tv.firebaseio.com",
+    "project_id": "ashur-tv",
+    "storage_bucket": "ashur-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811593537136:android:867a706f2bd4e1fca046b5",
+        "android_client_info": {
+          "package_name": "com.example.ashurtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811593537136-9gfen3kn2h1fv68m8ds40u3iqmtttpjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwN5vQw09jn3r4Zoe1q3CeeYmY0DyXoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811593537136-9gfen3kn2h1fv68m8ds40u3iqmtttpjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811593537136-fcho4s2vo753rl2kcpa1pg41bip0o8rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "basic.ashurtv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

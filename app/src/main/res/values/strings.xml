@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2020. Pauldin Bebla
+  -->
+
+<resources>
+    <string name="app_name">AshurTV</string>
+    <string name="flag">Assyrian Flag</string>
+    <string name="welcome">Welcome to Ashur TV!</string>
+    <string name="intro">Ashur.tv is an Assyrian International TV Station. Content on Ashur.tv showcases and brings the Assyrian community together. Click the play button to start watching.</string>
+    <string name="play">Play Button</string>
+</resources>
